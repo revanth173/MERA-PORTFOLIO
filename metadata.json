@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Portfolio Studio",
+  "description": "Next-generation 3D cinematic interactive portfolio experience featuring the Creative Universe, Journey Through Time, and panoramic curved project showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
